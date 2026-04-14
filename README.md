@@ -41,4 +41,8 @@ Em constante evolução conforme avanço nos estudos e desenvolvimento de novas 
 
 Paulo Roberto
 🔗 https://github.com/Paulo-Dev-TI
-
+* Back-end
+  
+Pedro Antônio 
+🔗 https://github.com/PedroantDev17
+* Front-end
